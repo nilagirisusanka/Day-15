@@ -9,7 +9,7 @@ public class Main {
 Calculate calci=new Calculate();
 int sum=calci.sum(9,9);
 System.out.println("sum is : " +sum);
-        int difference=calci.difference(9,5);
-        System.out.println("Difference is : " +difference);
+        int diff=calci.difference(9,5);
+        System.out.println("Difference is : " +diff);
     }
 }
