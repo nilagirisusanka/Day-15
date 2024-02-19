@@ -7,9 +7,9 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 Calculate calci=new Calculate();
-int sum=calci.calculate(9,9);
+int sum=calci.sum(9,9);
 System.out.println("sum is : " +sum);
-        int difference=calci.calculate(9,5);
+        int difference=calci.difference(9,5);
         System.out.println("Difference is : " +difference);
     }
 }
