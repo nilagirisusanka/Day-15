@@ -6,7 +6,7 @@ public class Assignment {
     public  String print() {
         return "hai from the test child  branch";
     }
-    public int add(int a,int b){
+    public int sum(int a,int b){
         return a+b;
     }
 }
