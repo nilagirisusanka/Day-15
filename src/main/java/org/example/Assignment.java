@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Assignment {
     public  String print() {
-        return "hai from the test child  branch";
+        return "hai from the test child branch";
     }
     public int sum(int a,int b){
         return a+b;
